@@ -1,0 +1,36 @@
+
+ .parrafo{
+    font: size 22px;
+    color: #FFFFFF ;
+    text-align: initial;
+    font-family: 'Big Shoulders Display', cursive;
+ 
+   
+ } 
+
+.titulo{
+    font: size 22px;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: 'Big Shoulders Display', cursive;
+}
+
+.fondo{
+ background-color: black;
+
+}
+
+.fondo2{
+
+   background-color: blueviolet;
+
+}
+
+.fondo3{
+   background-image: url(img/img3.jpg);
+   background-attachment: fixed;
+}
+
+ 
+
+ 
